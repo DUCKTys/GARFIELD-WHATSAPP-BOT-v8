@@ -11,7 +11,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'b3f68624fd', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
 global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
@@ -21,23 +21,23 @@ global.symb3 = '▬' // 👈 Enter Any ▅ ▂ ▁ ▊
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 *ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
-*From Sri Lanka 🇱🇰*
+*I am 17 years old developer...*
+*From Indonesian*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow My Facebook - https://www.facebook.com/zenoixnoize*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+94711502119'] //👈  Enter Your number
-global.premium =  ['+94711502119'] //👈  Enter Your number
-global.ownernomer = '+94711502119' //👈  Enter Your number
-global.ownername = 'ZENOI' //👈 Enter Your name
-global.botname = 'ＧＡＲＦＩＥＬＤ ＢＯＴ' //👈 Enter Your Bot name
-global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 𝖦𝖺𝗋𝖿𝗂𝖾𝗅𝖽 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8' // 👈 You Can change this your choice
+*Follow My Facebook - https://www.facebook.com/Rangga*`  // 👈 Enter Your details and Social Media Links and Anything
+global.owner =  ['6281359053674'] //👈  Enter Your number
+global.premium =  ['6281359053674'] //👈  Enter Your number
+global.ownernomer = '6281359053674' //👈  Enter Your number
+global.ownername = 'RGA' //👈 Enter Your name
+global.botname = 'AlPHA ＢＯＴ' //👈 Enter Your Bot name
+global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 ALPHA 𝖡𝗈𝗍' //👈 Enter Your Name
+global.ig = 'https://github.com/Zenoixnoize/rangga_1532' // 👈 You Can change this your choice
 global.region = 'India, South India, Kerala' // 👈 You Can change this your choice
 global.sc = 'https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8'
 global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
-global.myweb = 'https://www.facebook.com/garfieldbots/'// 👈 Enter your Social media link to follow now button
+global.myweb = 'https://www.facebook.com/Rangga/'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
 global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
@@ -102,16 +102,16 @@ fs.watchFile(file, () => {
 // New Menu Ui
 /*
 ▬
-▎ Hi  Ｚ Ξ ＮＯＩ 👋 
-▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+▎ Hi  RGA 👋 
+▎ ALPHA ＢＯＴ
 ▎ █ 𝗦𝗽𝗲𝗲𝗱 : 0.00119 miliseconds
 ▎ █ 𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : 9 hours, 58 minutes, 23 seconds
 ▎ █ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ＧＡＲＦＩＥＬＤ ＢＯＴ 
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +94711502119
-▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ZENOI
-▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : linux
-▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : 11
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : RGA
+▎ █ 𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : +6281359053674
+▎ █ 𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : Rangga
+▎ █ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : HP
+▎ █ 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿 : ~
    Ｍｅｎｕ Ｃｏｍｍａｎｄｓ🌀
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 
    *▓  AllMenu* 
@@ -123,11 +123,11 @@ fs.watchFile(file, () => {
    *▓  Databasemenu*
    *▓  Gamemenu*
    
-▎ ️ＧＡＲＦＩＥＬＤ ＢＯＴ  Created by ZENOI  🪁
+▎ ️ALPHA ＢＯＴ  Created by RGA  🪁
 ▎ ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т v8.6 and 
 ▎ 𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ v1.00             
 ⭕►▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-   ▎ ＧＡＲＦＩＥＬＤ ＢＯＴ
+   ▎ ALPHA ＢＯＴ
    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
  ▁▁▁▁▁▁▁▁▁▁▁▁▁▁
 ▎ 
